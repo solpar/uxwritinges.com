@@ -1,7 +1,7 @@
 export default () => (
   <div>
     <div className="links">
-      <a href="www.linkedin.com/in/marcelo-zapaia-a78a3832"
+      <a href="https://www.linkedin.com/in/marcelo-zapaia-a78a3832/"
          target="_blank"
          className="animated swing">
         <img src="/static/logos/lnkd.png" />
