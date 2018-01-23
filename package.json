@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/qzapaia/zapaiacom#readme",
   "dependencies": {
+    "airtable": "^0.5.2",
+    "lodash": "^4.17.4",
     "next": "^4.2.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
