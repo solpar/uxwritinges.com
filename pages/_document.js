@@ -16,6 +16,8 @@ export default class MyDocument extends Document {
           <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png" />
           <link rel="manifest" href="/static/manifest.json" />
           <link rel="mask-icon" href="/static/safari-pinned-tab.svg" color="#5bbad5" />
+
+          <script src="/static/register.js"></script>
         </Head>
         <body>
           <Main />
