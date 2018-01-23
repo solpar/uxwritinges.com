@@ -103,7 +103,7 @@ export default class extends Component{
             </div>
             :
             <h2 style={defaultQuestionStyle} onClick={randomQuestion}>
-              {preguntas ? defaultQuestion : 'loading ...'}
+              {preguntas ? defaultQuestion : 'llenandose ...'}
             </h2>
           }
       </div>
