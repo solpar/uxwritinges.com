@@ -6,7 +6,7 @@ export default () => (
          className="animated swing">
         <img src="/static/logos/lnkd.png" />
       </a>
-      <a href="https://github.com/qzapaia"
+      <a href="https://github.com/zapaiamarce"
          target="_blank"
          className="animated swing">
         <img src="/static/logos/gh.png" />
