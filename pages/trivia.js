@@ -9,7 +9,7 @@ import {
   questionStyle,
   answersStyle,
   defaultQuestionStyle,
-} from './styles';
+} from '../components/styles';
 
 const base = new Airtable({
   apiKey: 'key3qcgZDloxOJaCT'

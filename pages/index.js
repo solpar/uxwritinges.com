@@ -1,5 +1,10 @@
+import Head from 'next/head'
+
 export default () => (
   <div>
+    <Head>
+      <title>Marcelo Zapaia 😀</title>
+    </Head>
     <div className="links">
       <a href="https://www.linkedin.com/in/marcelo-zapaia-a78a3832/"
          target="_blank"
