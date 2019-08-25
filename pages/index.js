@@ -16,7 +16,7 @@ export default () => (
          className="animated swing">
         <img src="/static/logos/gh.png" />
       </a>
-      <a href="https://www.instagram.com/_zapaia/"
+      <a href="https://www.instagram.com/zapaia_"
          target="_blank"
          className="animated swing">
         <img src="/static/logos/ig.png" />
