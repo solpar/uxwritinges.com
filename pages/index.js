@@ -36,7 +36,7 @@ export default () => (
       }
       body{
         margin:0;
-        background-color:#eee;
+        background-color:#77d9f0;
         color:#fafafa;
         font-size:22px;
       }
@@ -53,7 +53,7 @@ export default () => (
         color:#ddd;
         text-decoration:none;
         font-family: 'Bungee', cursive;
-        margin:15px;
+        margin:12px;
         transition:all .2s;
       }
       a:hover{
@@ -61,7 +61,7 @@ export default () => (
       }
 
       img{
-        height:40px;
+        height:50px;
       }
 
     `}</style>
