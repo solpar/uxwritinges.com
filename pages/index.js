@@ -4,6 +4,7 @@ export default () => (
   <div>
     <Head>
       <title>Marcelo Zapaia 😀</title>
+      <meta content="123"/>
     </Head>
     <div className="links">
       <a href="https://www.linkedin.com/in/marcelo-zapaia-a78a3832/"
@@ -27,6 +28,7 @@ export default () => (
         <img src="/static/logos/medium.png" />
       </a>
     </div>
+    
 
     <style global jsx>{`
       *{
