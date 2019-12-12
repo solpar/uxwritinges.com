@@ -3,29 +3,33 @@ import Head from 'next/head'
 export default () => (
   <div>
     <Head>
-      <title>Marcelo Zapaia 😀</title>
+      <title>UX Writing en español</title>
       <meta content="123"/>
+  <meta name=”Description” content=”Primera comunidad de UX writers en español.” />
+  <meta http-equiv=”Content-Language” content=”es”/>
+  <meta name="keywords" content="uxwriting, ux writing en español, argentina"/>
     </Head>
     <div className="links">
-      <a href="https://www.linkedin.com/in/marcelo-zapaia-a78a3832/"
+      <a href="https://www.linkedin.com/company/ux-writing-en-español"
          target="_blank"
          className="animated swing">
         <img src="/static/logos/lnkd.png" />
       </a>
-      <a href="https://github.com/zapaiamarce"
-         target="_blank"
-         className="animated swing">
-        <img src="/static/logos/gh.png" />
-      </a>
-      <a href="https://www.instagram.com/zapaia_"
+      <a href="https://www.instagram.com/uxwritinges"
          target="_blank"
          className="animated swing">
         <img src="/static/logos/ig.png" />
       </a>
-      <a href="https://medium.com/@zapaiamarce"
+      <a href="https://medium.com/ux-writing-en-espanol"
          target="_blank"
          className="animated swing">
         <img src="/static/logos/medium.png" />
+    </a>
+      <a href="https://open.spotify.com/show/5fcpIYfbLA984haw5MicR1"
+         target="_blank"
+         className="animated swing">
+        <img src="/static/logos/medium.png" />
+      </a>
       </a>
     </div>
     
@@ -36,7 +40,7 @@ export default () => (
       }
       body{
         margin:0;
-        background-color:#77d9f0;
+        background-color:#B1E5D5;
         color:#fafafa;
         font-size:22px;
       }
