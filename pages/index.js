@@ -28,7 +28,7 @@ export default () => (
       <a href="https://open.spotify.com/show/5fcpIYfbLA984haw5MicR1"
          target="_blank"
          className="animated swing">
-        <img src="/static/logos/medium.png" />
+        <img src="/static/logos/spotify.png" />
       </a>
       </a>
     </div>
